@@ -14,7 +14,7 @@ Welcome to the **Apple Catching Game**! This is a fun and interactive game where
 - [License](#license)
 
 ## About the Game
-The Apple Catching Game is a simple yet addictive game where players control a basket to catch falling apples. The goal is to catch as many fresh apples as possible while avoiding rotten ones. The game gets progressively harder as the apples fall faster!
+The Apple Catching Game is a simple yet addictive game where players control a basket to catch falling apples. The goal is to catch as many apples as possible while avoiding bananas peel. The game gets progressively harder as the apples fall faster!
 
 ## How to Play
 1. Use the left and right arrow keys (or touch controls) to move the basket.
