@@ -1,8 +1,9 @@
-# Apple Catching Game
+![image](https://github.com/user-attachments/assets/71fc089e-949d-48a9-9155-98a4b016cb77)# Apple Catching Game
 
 Welcome to the **Apple Catching Game**! This is a fun and interactive game where players catch falling apples to score points. Avoid the rotten apples and see how high you can score!
 
 ![Game Screenshot](screenshot.png) <!-- Add a screenshot of your game here if available -->
+![image](https://github.com/user-attachments/assets/7b64390d-c354-4382-aaf7-1f8ac61ea14f)
 
 ## Table of Contents
 - [About the Game](#about-the-game)
